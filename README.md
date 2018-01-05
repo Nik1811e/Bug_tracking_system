@@ -1,1 +1,1 @@
-# Bug_tracking_system
+# Course-project-Bug-tracking-system
